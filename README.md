@@ -48,7 +48,7 @@ flutter packages pub run build_runner build
 
 flutter run
 
-📦 Dependencies
+***📦 Dependencies***
 dependencies:
   flutter_bloc: ^8.1.3
   hive: ^2.2.3
@@ -57,7 +57,7 @@ dependencies:
   http: ^0.13.6
   get_it: ^7.6.0
 
-🔌 API Endpoints
+***🔌 API Endpoints***
 This app is designed to integrate with any REST API that follows this structure:
 | Method | Endpoint     | Description     |
 | ------ | ------------ | --------------- |
@@ -70,8 +70,8 @@ This app is designed to integrate with any REST API that follows this structure:
 Local tasks are stored using Hive in:
 Hive.openBox<TaskModel>('tasks');
 
-🧪 Testing
-Manual testing:
+***🧪 Testing***
+**Manual testing:**
 
 ✅ Add task
 
@@ -81,7 +81,7 @@ Manual testing:
 
 ✅ Persistence after restart
 
-📦 Bonus Features (Planned)
+***📦 Bonus Features (Planned)***
  🔍 Search with debounce
 
  🔃 Sorting & filtering
@@ -94,20 +94,11 @@ Manual testing:
 
  🧩 Data import/export
 
-✍️ Author
-Aryan Vishwakarma
+***✍️ Author***
+
+**Aryan Vishwakarma**
+
 Built as part of the internship challenge at Alkraj Developers Pvt. Ltd.
 
 ---
-
-## 📤 Postman Collection
-
-I’ll now generate the `postman_collection.json` file for you based on these endpoints.
-
-Would you prefer the API hosted with:
-- A mock server (e.g., [json-server](https://github.com/typicode/json-server))?
-- Firebase functions?
-- A live endpoint?
-
-Let me know your choice, and I’ll send the Postman JSON tailored for it. Ready to continue?
 
