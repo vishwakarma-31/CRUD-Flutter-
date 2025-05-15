@@ -40,10 +40,12 @@ lib/
 
 flutter pub get
 
-✅ Generate Hive adapters:
+3.✅ Generate Hive adapters:
+
 flutter packages pub run build_runner build
 
-✅ Run the app:
+4.✅ Run the app:
+
 flutter run
 
 📦 Dependencies
