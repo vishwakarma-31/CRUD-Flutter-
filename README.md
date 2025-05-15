@@ -38,7 +38,6 @@ lib/
 1. ✅ Clone the repo
 2. ✅ Install dependencies:
 
-```bash
 flutter pub get
 
 ✅ Generate Hive adapters:
