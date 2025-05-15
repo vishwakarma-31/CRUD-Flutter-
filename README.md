@@ -81,7 +81,10 @@ Hive.openBox<TaskModel>('tasks');
 
 ✅ Persistence after restart
 
+
+
 ***📦 Bonus Features (Planned)***
+
  🔍 Search with debounce
 
  🔃 Sorting & filtering
@@ -93,6 +96,8 @@ Hive.openBox<TaskModel>('tasks');
  🌓 Theme toggle
 
  🧩 Data import/export
+
+
 
 ***✍️ Author***
 
